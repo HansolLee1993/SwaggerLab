@@ -1,0 +1,12 @@
+C:\apps\SQLiteLab\bin\Debug\netcoreapp2.0\SQLiteLab.deps.json
+C:\apps\SQLiteLab\bin\Debug\netcoreapp2.0\SQLiteLab.runtimeconfig.json
+C:\apps\SQLiteLab\bin\Debug\netcoreapp2.0\SQLiteLab.runtimeconfig.dev.json
+C:\apps\SQLiteLab\bin\Debug\netcoreapp2.0\SQLiteLab.dll
+C:\apps\SQLiteLab\bin\Debug\netcoreapp2.0\SQLiteLab.pdb
+C:\apps\SQLiteLab\obj\Debug\netcoreapp2.0\SQLiteLab.csproj.CoreCompileInputs.cache
+C:\apps\SQLiteLab\obj\Debug\netcoreapp2.0\SQLiteLab.AssemblyInfoInputs.cache
+C:\apps\SQLiteLab\obj\Debug\netcoreapp2.0\SQLiteLab.AssemblyInfo.cs
+C:\apps\SQLiteLab\obj\Debug\netcoreapp2.0\SQLiteLab.dll
+C:\apps\SQLiteLab\obj\Debug\netcoreapp2.0\SQLiteLab.pdb
+C:\apps\SQLiteLab\obj\Debug\netcoreapp2.0\SQLiteLab.csprojResolveAssemblyReference.cache
+C:\apps\SQLiteLab\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
